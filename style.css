@@ -1,1 +1,9 @@
 /* CS291A proj0 Zihao Zhang */
+div {margin: 10px;}
+.header {color: black; font-style: normal;}
+.link {display: flex; padding: 15px;}
+.content {display: flex; padding: 5px;}
+img {width: 700px; height: 900px;}
+table, th, td {
+    border: 1px solid black;
+}
